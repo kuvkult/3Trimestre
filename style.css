@@ -9,7 +9,7 @@ strong {color: #ffffff;}
 p {text-align:justify; color: #ffffff;}
 .PRIMEIROPARAGRAFO {text-align:center; font-size:18 px; border:black solid 2 px ; padding:10 px; margin:10 px; }
 .SEGUNDOPARAGRAFO {text-align:center; font-size: 18 px; border:black solid 2 px; padding:10 px; margin:10 px;}
-#Playstation {width:5; height:5;}
+#Playstation {width:5 px; height:5 px;}
 #Controle {width:30; height:30;}
 #mods {width:20; height:20;} 
 #lista{display: inline-block;}
