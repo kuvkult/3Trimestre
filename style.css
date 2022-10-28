@@ -20,9 +20,8 @@ li {color: #ffffff;}
     text-align: center; 
     font-size: 18px;
      border-top: red solid 2px; 
-     margin: 10px;}
-.SEGUNDOPARAGRAFO {
+     margin: 10px 40px 10px 40px;}
+ .SEGUNDOPARAGRAFO {
     text-align: center;
-     font-size: 18px;
-      border-top: red solid 2px;
-       margin: 10px;}
+    font-size: 18px;
+ }
