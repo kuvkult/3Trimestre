@@ -15,7 +15,7 @@ p {text-align:center; color: #ffffff;}
 .imgb {text-align: center;}
 .imgc {text-align: center;}
 .imgd {text-align: center;}
-.primeiroparagrafo {
+.PRIMEIROPARAGRAFO {
     text-align: center; 
     margin: 10px;
     padding: 10px; 
@@ -23,10 +23,11 @@ p {text-align:center; color: #ffffff;}
     border-radius: 10px;
 }
 
-.segundoparagrafo {
+.SEGUNDOPARAGRAFO {
     text-align: center; 
     margin: 10px;
     padding: 10px; 
     border: rgb(255, 150, 255) dashed 2px; 
     border-radius: 10px;
 }
+ 
