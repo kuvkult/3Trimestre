@@ -19,8 +19,9 @@ li {color: #ffffff;}
 .PRIMEIROPARAGRAFO {
     text-align: center; 
     font-size: 18px;
-     border-top: red solid 2px; 
-     margin: 10px 40px 10px 40px;}
+     border-top-color: rgb(14, 26, 143) solid 2px; 
+     margin: 10px 40px 10px 40px;
+    }
  .SEGUNDOPARAGRAFO {
     text-align: center;
     font-size: 18px;
