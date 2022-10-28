@@ -18,12 +18,12 @@ p {text-align:center; color: #ffffff;}
 .PRIMEIROPARAGRAFO {
     text-align: center; 
     font-size: 18px;
-     border: black solid 2px; 
+     border: red solid 2px; 
      padding: 20px; 
      margin: 10px 40px 10px 40px;}
 .SEGUNDOPARAGRAFO {
     text-align: center;
      font-size: 18px;
-      border: black solid 2px;
+      border: red solid 2px;
       padding: 20px;
        margin: 10px 40px 10px 40px;}
