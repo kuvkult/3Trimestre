@@ -1,10 +1,10 @@
 body{background-color: #000022; text-align: center; font-size: 18 px;}
-h1{text-align: center; background-color: #302f2f; color:#ffffff}
+h1{text-align: center; background-color: #808080; color:#ffffff}
 h2 {text-align: center; color: rgb(6, 104, 6) }
 h3{text-align: center; padding: 20 px; color:#ffffff}
 b{font-size: 18 px;}
 i{font-size: 18 px;}
-header, footer {background-color: #302f2f; text-align: center; font-size: 20 px;  padding: 30 px;}
+header, footer {background-color: #808080; text-align: center; font-size: 20 px;  padding: 30 px;}
 strong {color: #8b0000;}
 p {text-align:center; color: #ffffff;}
 li {color: #ffffff;}
