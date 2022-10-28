@@ -24,6 +24,6 @@ p {text-align:center; color: #ffffff;}
 .SEGUNDOPARAGRAFO {
     text-align: center;
      font-size: 18px;
-      border: red solid 2px;
+      border-top-color: red solid 2px;
       padding: 20px;
        margin: 10px 40px 10px 40px;}
